@@ -1,0 +1,23 @@
+{
+    "items": [
+      {
+        "id": "1",
+        "title": "Машинка 1",
+        "body": "Черная",
+        "img": "https://i.pinimg.com/originals/f7/f4/59/f7f459219bcf10fc240b1551447a2fff.jpg",
+        "deliever": "Америка"
+      },
+      {
+        "id": "2",
+        "title": "Машинка 2",
+        "body": "Зеленая",
+        "img": "https://sportishka.com/uploads/posts/2021-12/1639123650_30-sportishka-com-p-zelenaya-mashina-sport-krasivo-foto-37.jpg",
+        "deliever": "Чили"
+      }
+    ],
+    "creatorInfo": {
+      "name": "Иванов Артем",
+      "group": "6408",
+      "repo": "https://github.com/Krystalone7"
+    }
+  }
